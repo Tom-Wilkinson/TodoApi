@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "kF1ce5WNIPU=",
+  "success": true,
+  "projectFilePath": "/Users/tom.wilkinson@paconsulting.com/Documents/TodoApiAssignment/TodoApi/TodoApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/microsoft.aspnetcore.openapi/9.0.14/microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/microsoft.extensions.apidescription.server/9.0.0/microsoft.extensions.apidescription.server.9.0.0.nupkg.sha512",
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/microsoft.openapi/2.7.5/microsoft.openapi.2.7.5.nupkg.sha512",
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/swashbuckle.aspnetcore/10.2.3/swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/swashbuckle.aspnetcore.swagger/10.2.3/swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/swashbuckle.aspnetcore.swaggergen/10.2.3/swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/swashbuckle.aspnetcore.swaggerui/10.2.3/swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512",
+    "/Users/tom.wilkinson@paconsulting.com/.nuget/packages/system.text.json/8.0.5/system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -18,6 +18,7 @@ var app = builder.Build();
 
 app.UseCors("AllowAll");
 
+// model
 
 if (app.Environment.IsDevelopment())
 {

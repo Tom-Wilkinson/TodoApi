@@ -20,6 +20,8 @@ app.UseCors("AllowAll");
 
 // model
 
+// POST validation
+
 if (app.Environment.IsDevelopment())
 {
     //app.MapOpenApi();
